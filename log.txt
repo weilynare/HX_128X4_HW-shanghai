@@ -1,0 +1,1491 @@
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A3:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,2,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A11:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,2,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:WAIT
+&INSTR:REROUT:A12:COM1:TROUBLE
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  &&drvRSWSetSwitchState 1,3,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:A12:COM1:TROUBLE
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  SwitchState 8,1,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:A12:COM1:WAIT
+&INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A12:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,3,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:TROUBLE
+&IP:192.168.1.202发送  drvRSWSetSwitchState 4,4,0,0
+&drvRSWSetSwitchState 8,4,0,0
+&drvRSWSetSwitchState 16,0,0,0
+返回  &&&192.168.1.203发送  drvRSWSetSwitchState 0,0,0,0
+返回  drvRSWSetSwitchState 0,0,0,0
+INSTR:REROUT:A101:COM1:WAIT
+&INSTR:REROUT:A9:COM1:TROUBLE
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  INSTR:REROUT:A9:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A2:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A9:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A2:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A9:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A2:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A2:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A9:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+返回  drvRSWSetSwitchState 1,0,0,0
+&drvRSWSetSwitchState 8,1,0,0
+&drvRSWSetSwitchState 13,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0
+INSTR:REROUT:A2:COM1:NOW
+&IP:192.168.1.200发送  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+&drvRSWSetSwitchState 8,0,0,0
+&drvRSWSetSwitchState 12,0,0,0
+&192.168.1.203发送  drvRSWSetSwitchState 0,1,0,0
+返回  drvRSWSetSwitchState 0,1,0,0
+INSTR:REROUT:IN9:OUT2:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 1,8,0,0
+返回  drvRSWSetSwitchState 1,8,0,0
+INSTR:REROUT:IN10:OUT3:NOW
+&IP:192.168.1.201发送  drvRSWSetSwitchState 2,9,0,0
+返回  drvRSWSetSwitchState 2,9,0,0

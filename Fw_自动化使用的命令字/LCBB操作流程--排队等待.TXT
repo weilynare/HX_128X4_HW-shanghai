@@ -1,0 +1,176 @@
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:41:441]PTC_COM:LCBB注册成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:41:460]LCBB:注册成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:41:460]LCBB:开始连接LCBB....
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:45:473]LCBB:连接LCBB成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:45:477]LCBB:开始登陆LCBB....
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:45:478]20.10.9.12: 发送LCBB消息--------->SYSTEM:LOGIN:api3:333333
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:45:513]LCBB:发送LCBB消息成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:45:514]LCBB:20.10.9.12:Going to Receive Msg:Template:SYSTEM:RELOGIN:PASSAPI
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:02:45:521]LCBB上报消息<---------SYSTEM:RELOGIN:PASSAPI
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:46:019]LCBB上报消息<---------SYSTEM:RELOGIN:PASSAPI
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:46:019]LCBB:接收消息成功:SYSTEM:RELOGIN:PASSAPI
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:46:020]LCBB:20.10.9.12: 接收LCBB消息成功:SYSTEM:RELOGIN:PASSAPI
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:02:46:020]LCBB:登陆LCBB成功
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:02:56:885]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:49:502]LCBB上报消息<---------INSTR:REALLROUTEUSE:api2,20.10.9.174,IN10OUT2,90;api2,20.10.9.174,IN18OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:49:701]LCBB上报消息<---------INSTR:REALLQUEUE:api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:50:074]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,A21COM1,90;api2,20.10.9.174,IN10OUT2,90;api2,20.10.9.174,IN18OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:50:275]LCBB上报消息<---------INSTR:REALLQUEUE:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:50:690]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:50:891]LCBB上报消息<---------INSTR:REALLQUEUE:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:53:725]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,A21COM1,90;api1,20.10.9.172,IN1OUT2,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:53:925]LCBB上报消息<---------INSTR:REALLQUEUE:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:57:872]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,A21COM1,90;api1,20.10.9.172,IN1OUT2,90;api1,20.10.9.172,IN17OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:58:071]LCBB上报消息<---------INSTR:REALLQUEUE:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:03:58:716]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:05:00:582]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:02:284]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:399]PTC_COM: 收到消息:来自 Executor,去往 LCBB 消息内容:MSG_CTRL:USERCTRL_ApplyRoute::A90$COM1$90
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:24:402][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ApplyRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:24:402][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ApplyRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:24:402][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ApplyRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:24:409][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:24:409][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:24:409][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:410]LCBB:开始申请路由...
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:415]20.10.9.12: 发送LCBB消息--------->INSTR:ROUT:APPLY:A90:COM1:90
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:24:418]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,A21COM1,90;api1,20.10.9.172,IN1OUT2,90;api1,20.10.9.172,IN17OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:420]LCBB:20.10.9.12:Going to Receive Msg:Template:INSTR:REROUT
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:24:617]LCBB上报消息<---------INSTR:REALLQUEUE:api3,20.10.9.175,A90COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:978]LCBB上报消息<---------INSTR:REROUT:A90:COM1:WAIT
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:978]LCBB:接收消息成功:INSTR:REROUT:A90:COM1:WAIT
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:979]LCBB:接收消息成功:INSTR:REROUT:A90:COM1:WAIT
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:24:979]LCBB:路由正在使用中，需等待重新申请
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:24:994]PTC_COM: 收到消息:来自 LCBB,去往 Executor 消息内容:ApplyRoute_FAIL:WAIT::
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:25:029]Executor:申请LCBB路由等待中WAIT
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:28:035]PTC_COM: 收到消息:来自 Executor,去往 LCBB 消息内容:MSG_CTRL:USERCTRL_WaitRoute::A90$COM1$600
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:28:038][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_WaitRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:28:038][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_WaitRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:28:038][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_WaitRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:28:039][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:28:039][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:28:039][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:28:062]LCBB:等待路由:A90:COM1
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:28:063]LCBB:20.10.9.12:Going to Receive Msg:Template:INSTR:TIMESTART:A90:COM1
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:49:455]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,IN1OUT2,90;api1,20.10.9.172,IN17OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:49:655]LCBB上报消息<---------INSTR:REALLQUEUE:api3,20.10.9.175,A90COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:50:084]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,IN17OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:50:284]LCBB上报消息<---------INSTR:REALLQUEUE:api3,20.10.9.175,A90COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:50:450]LCBB上报消息<---------INSTR:TIMESTART:A90:COM1:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:50:451]LCBB:接收消息成功:INSTR:TIMESTART:A90:COM1:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:50:451]LCBB:LCBB申请路由成功:INSTR:TIMESTART:A90:COM1:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:50:452][$KeyInfo]LCBB:等待路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:50:452][$KeyInfo]LCBB:等待路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:50:452][$KeyInfo]LCBB:等待路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:50:466]PTC_COM: 收到消息:来自 LCBB,去往 Executor 消息内容:WaitRoute_SUCCESS:SUCCESS::
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:50:481]Executor:等待LCBB路由成功SUCCESS
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:50:491]LCBB上报消息<---------INSTR:REALLROUTEUSE:api1,20.10.9.172,IN17OUT3,90;api3,20.10.9.175,A90COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:50:712]LCBB上报消息<---------INSTR:REALLROUTEUSE:api3,20.10.9.175,A90COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:50:912]LCBB上报消息<---------INSTR:REALLQUEUE:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:51:112]LCBB上报消息<---------INSTR:REALLROUTEUSE:api3,20.10.9.175,A90COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:53:485]PTC_COM: 收到消息:来自 Executor,去往 LCBB 消息内容:MSG_CTRL:USERCTRL_ApplyRoute::IN5$OUT2$90
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:53:490][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ApplyRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:53:490][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ApplyRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:53:490][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ApplyRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:53:491][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:53:491][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:53:491][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:53:491]LCBB:开始申请路由...
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:53:497]20.10.9.12: 发送LCBB消息--------->INSTR:ROUT:APPLY:IN5:OUT2:90
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:53:498]LCBB:20.10.9.12:Going to Receive Msg:Template:INSTR:REROUT
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:53:784]LCBB上报消息<---------INSTR:REALLROUTEUSE:api3,20.10.9.175,A90COM1,90;api3,20.10.9.175,IN5OUT2,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:53:986]LCBB上报消息<---------INSTR:REALLQUEUE:api2,20.10.9.174,A52COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:022]LCBB上报消息<---------INSTR:REROUT:IN5:OUT2:NOW
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:023]LCBB:接收消息成功:INSTR:REROUT:IN5:OUT2:NOW
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:023]LCBB:接收消息成功:INSTR:REROUT:IN5:OUT2:NOW
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:54:023][$KeyInfo]LCBB:申请路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:54:023][$KeyInfo]LCBB:申请路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:54:023][$KeyInfo]LCBB:申请路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:038]PTC_COM: 收到消息:来自 LCBB,去往 Executor 消息内容:ApplyRoute_SUCCESS:SUCCESS::
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:107]PTC_COM: 收到消息:来自 Executor,去往 LCBB 消息内容:MSG_CTRL:USERCTRL_ReadInsLoss::A90$COM1$925200
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:54:113][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReadInsLoss
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:54:113][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReadInsLoss
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:54:113][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReadInsLoss
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:54:113][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:54:113][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:54:113][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:116]LCBB:读取插损:A90:COM1:925200
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:117]20.10.9.12: 发送LCBB消息--------->INSTR:MANUALCAL:QUERY:A90:COM1:925200
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:127]LCBB:发送LCBB消息成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:128]LCBB:20.10.9.12:Going to Receive Msg:Template:INSTR:MANUALCAL
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:06:54:132]LCBB上报消息<---------INSTR:MANUALCAL:A90:COM1:-34.51
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:653]LCBB上报消息<---------INSTR:MANUALCAL:A90:COM1:-34.51
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:654]LCBB:接收消息成功:INSTR:MANUALCAL:A90:COM1:-34.51
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:654]LCBB:20.10.9.12: 接收LCBB消息成功:INSTR:MANUALCAL:A90:COM1:-34.51
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:655]LCBB:读取插损成功
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:06:54:655][$KeyInfo]LCBB:读插损成功
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:06:54:655][$KeyInfo]LCBB:读插损成功
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:06:54:655][$KeyInfo]LCBB:读插损成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:670]PTC_COM: 收到消息:来自 LCBB,去往 Executor 消息内容:ReadInsLoss_SUCCESS:-34.51
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:06:54:710]Executor:读取LCBB路由差损-34.51
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:07:04:080]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:08:05:902]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:09:07:616]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:10:09:416]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:11:11:123]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:11:35:423]LCBB上报消息<---------INSTR:REALLROUTEUSE:api3,20.10.9.175,A90COM1,90;api3,20.10.9.175,IN5OUT2,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:11:35:623]LCBB上报消息<---------INSTR:REALLQUEUE:api2,20.10.9.174,A52COM1,90;api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:12:12:828]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:13:14:621]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:14:16:326]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:15:20:457]LCBB上报消息<---------INSTR:REALARM:QUERY:28;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:16:22:215]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:17:23:918]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:25:616]LCBB上报消息<---------INSTR:REALARM:QUERY:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:40:457]PTC_COM: 收到消息:来自 Executor,去往 LCBB 消息内容:MSG_CTRL:USERCTRL_ReleaseRoute::A90$COM1$20
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:18:40:492][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReleaseRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:18:40:492][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReleaseRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:18:40:492][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReleaseRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:18:40:502][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:18:40:502][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:18:40:502][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:40:503]LCBB:开始释放路由...
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:40:503]20.10.9.12: 发送LCBB消息--------->INSTR:RELEASE:A90:COM1
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:40:510]LCBB上报消息<---------INSTR:REALLROUTEUSE:api3,20.10.9.175,IN5OUT2,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:40:513]LCBB:发送LCBB消息成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:40:514]LCBB:20.10.9.12:Going to Receive Msg:Template:INSTR:RERELEASE:
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:40:702]LCBB上报消息<---------INSTR:REALLQUEUE:api2,20.10.9.174,A52COM1,90;api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:062]LCBB上报消息<---------INSTR:RERELEASE:A90:COM1:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:062]LCBB:接收消息成功:INSTR:RERELEASE:A90:COM1:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:063]LCBB:20.10.9.12: 接收LCBB消息成功:INSTR:RERELEASE:A90:COM1:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:063]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:064]LCBB:释放路由:A90COM1:SUCCESS
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:18:41:064][$KeyInfo]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:18:41:064][$KeyInfo]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:18:41:064][$KeyInfo]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:078]PTC_COM: 收到消息:来自 LCBB,去往 Executor 消息内容:ReleaseRoute_SUCCESS:SUCCESS::
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:121]Executor:释放LCBB路由:A90COM1:SUCCESS
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:124]PTC_COM: 收到消息:来自 Executor,去往 LCBB 消息内容:MSG_CTRL:USERCTRL_ReleaseRoute::IN5$OUT2$20
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:18:41:134][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReleaseRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:18:41:134][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReleaseRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:18:41:134][$KeyInfo]LCBB:收到指令:MSG_CTRL:USERCTRL_ReleaseRoute
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:18:41:134][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:18:41:134][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:18:41:134][$KeyInfo]LCBB:LCBBHardTest:来自Executor 去往LCBB 消息:MSG_CTRL
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:135]LCBB:开始释放路由...
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:135]20.10.9.12: 发送LCBB消息--------->INSTR:RELEASE:IN5:OUT2
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:41:150]LCBB上报消息<---------INSTR:REALLROUTEUSE:NONE
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:152]LCBB:发送LCBB消息成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:153]LCBB:20.10.9.12:Going to Receive Msg:Template:INSTR:RERELEASE:
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:41:348]LCBB上报消息<---------INSTR:REALLQUEUE:api2,20.10.9.174,A52COM1,90;api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:702]LCBB上报消息<---------INSTR:RERELEASE:IN5:OUT2:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:702]LCBB:接收消息成功:INSTR:RERELEASE:IN5:OUT2:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:702]LCBB:20.10.9.12: 接收LCBB消息成功:INSTR:RERELEASE:IN5:OUT2:OK
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:703]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:703]LCBB:释放路由:IN5OUT2:SUCCESS
+D:\ReTAK\Common\CommonFunctions.ttcn(552) : Result0[2015-09-26 23:18:41:704][$KeyInfo]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(555) : 20.10.9.120[2015-09-26 23:18:41:704][$KeyInfo]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(557) : RunInfo0[2015-09-26 23:18:41:704][$KeyInfo]LCBB:释放路由成功
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:718]PTC_COM: 收到消息:来自 LCBB,去往 Executor 消息内容:ReleaseRoute_SUCCESS:SUCCESS::
+D:\ReTAK\Common\CommonFunctions.ttcn(591) : Result0[2015-09-26 23:18:41:761]Executor:释放LCBB路由:IN5OUT2:SUCCESS
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:41:771]LCBB上报消息<---------INSTR:REALLROUTEUSE:api2,20.10.9.174,A52COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:41:964]LCBB上报消息<---------INSTR:REALLQUEUE:api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:45:218]LCBB上报消息<---------INSTR:REALLROUTEUSE:api2,20.10.9.174,A52COM1,90;api2,20.10.9.174,IN10OUT2,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:45:420]LCBB上报消息<---------INSTR:REALLQUEUE:api1,20.10.9.172,A21COM1,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:49:326]LCBB上报消息<---------INSTR:REALLROUTEUSE:api2,20.10.9.174,A52COM1,90;api2,20.10.9.174,IN10OUT2,90;api2,20.10.9.174,IN18OUT3,90;
+D:\ReTAK\Common\CommonFunctions.ttcn(595) : Result0[2015-09-26 23:18:49:523]LCBB上报消息<---------INSTR:REALLQUEUE:api1,20.10.9.172,A21COM1,90;
