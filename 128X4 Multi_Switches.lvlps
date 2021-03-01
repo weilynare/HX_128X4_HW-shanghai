@@ -2,15 +2,7 @@
 ProjectExplorer.ClassicPosition[String] = "53,15,694,412"
 
 [项目窗口数据(_D)]
-ProjectExplorer.ClassicPosition[String] = "88,32,546,330"
-
-[AB_Cache_{8AD50CC0-9D59-4C42-861D-0C5035819BE2}]
-Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
-Cache_Path[Path] Line0002 = "_{8AD50CC0-9D59-4C42-861D-0C5035819BE2}.txt"
-
-[AB_Cache_{EC2090F8-2530-4A92-9CFD-0488C6AEB419}]
-Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
-Cache_Path[Path] Line0002 = "_{EC2090F8-2530-4A92-9CFD-0488C6AEB419}.txt"
+ProjectExplorer.ClassicPosition[String] = "53,13,511,246"
 
 [AB_Cache_{41F8066C-BCF6-4B48-9997-A2C382B2551D}]
 Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
@@ -19,4 +11,12 @@ Cache_Path[Path] Line0002 = "_{41F8066C-BCF6-4B48-9997-A2C382B2551D}.txt"
 [AB_Cache_{7A387BEC-251D-4197-BEE7-6A13E6D72E6C}]
 Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
 Cache_Path[Path] Line0002 = "_{7A387BEC-251D-4197-BEE7-6A13E6D72E6C}.txt"
+
+[AB_Cache_{8AD50CC0-9D59-4C42-861D-0C5035819BE2}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{8AD50CC0-9D59-4C42-861D-0C5035819BE2}.txt"
+
+[AB_Cache_{EC2090F8-2530-4A92-9CFD-0488C6AEB419}]
+Cache_Path[Path] Line0001 = "/C/Users/Administrator/AppData/Local/Temp/AB_Cache"
+Cache_Path[Path] Line0002 = "_{EC2090F8-2530-4A92-9CFD-0488C6AEB419}.txt"
 
